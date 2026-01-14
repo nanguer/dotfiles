@@ -15,8 +15,7 @@ git clone git@github.com:nanguer/dotfiles.git ~/dotfiles
 cd ~/dotfiles
 ./bootstrap.sh
 ````
-```
-```
+
 
 
 Reboot after completion.
