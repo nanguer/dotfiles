@@ -1,0 +1,3 @@
+antigravity
+brave-bin
+watchman-bin
