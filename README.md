@@ -11,9 +11,12 @@ This repository contains:
 ## Usage (fresh system)
 
 ```bash
-git clone git@github.com:YOUR_USER/dotfiles.git ~/dotfiles
+git clone git@github.com:nanguer/dotfiles.git ~/dotfiles
 cd ~/dotfiles
 ./bootstrap.sh
+````
+```
+```
 
 
 Reboot after completion.
